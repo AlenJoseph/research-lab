@@ -1,0 +1,26 @@
+{
+  "paperId": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+  "title": "Memory Networks",
+  "year": 2014,
+  "authors": [
+    "J. Weston",
+    "S. Chopra",
+    "Antoine Bordes"
+  ],
+  "venue": "International Conference on Learning Representations",
+  "citationCount": 1872,
+  "externalIds": {
+    "ArXiv": "1410.3916",
+    "MAG": "2584341106",
+    "DBLP": "journals/corr/WestonCB14",
+    "CorpusId": 2926851
+  },
+  "url": "https://www.semanticscholar.org/paper/71ae756c75ac89e2d731c9c79649562b5768ff39",
+  "abstract": "Abstract: We describe a new class of learning models called memory networks. Memory networks reason with inference components combined with a long-term memory component; they learn how to use these jointly. The long-term memory can be read and written to, with the goal of using it for prediction. We investigate these models in the context of question answering (QA) where the long-term memory effectively acts as a (dynamic) knowledge base, and the output is a textual response. We evaluate them on a large-scale QA task, and a smaller, but more complex, toy task generated from a simulated world. In the latter, we show the reasoning power of such models by chaining multiple supporting sentences to answer questions that require understanding the intension of verbs.",
+  "tldr": "This work describes a new class of learning models called memory networks, which reason with inference components combined with a long-term memory component; they learn how to use these jointly.",
+  "openAccessPdfUrl": "",
+  "role": "foundation",
+  "whyIncluded": "Explicit memory slots for reasoning",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T06:38:33.191Z"
+}

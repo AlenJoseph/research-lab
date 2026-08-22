@@ -1,0 +1,26 @@
+{
+  "paperId": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+  "title": "JEPA for RL: Investigating Joint-Embedding Predictive Architectures for Reinforcement Learning",
+  "year": 2025,
+  "authors": [
+    "Tristan Kenneweg",
+    "Philip Kenneweg",
+    "Barbara Hammer"
+  ],
+  "venue": "The European Symposium on Artificial Neural Networks",
+  "citationCount": 7,
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2504-16591",
+    "ArXiv": "2504.16591",
+    "DOI": "10.14428/esann/2025.es2025-19",
+    "CorpusId": 277840979
+  },
+  "url": "https://www.semanticscholar.org/paper/067b7dfc2515e7422e3c127685b0f130248e9b43",
+  "abstract": "Joint-Embedding Predictive Architectures (JEPA) have recently become popular as promising architectures for self-supervised learning. Vision transformers have been trained using JEPA to produce embeddings from images and videos, which have been shown to be highly suitable for downstream tasks like classification and segmentation. In this paper, we show how to adapt the JEPA architecture to reinforcement learning from images. We discuss model collapse, show how to prevent it, and provide exemplary data on the classical Cart Pole task.",
+  "tldr": "It is shown how to adapt the JEPA architecture to reinforcement learning from images, and how to prevent model collapse, as well as exemplary data on the classical Cart Pole task.",
+  "openAccessPdfUrl": "https://doi.org/10.14428/esann/2025.es2025-19",
+  "role": "topic",
+  "whyIncluded": "Core corpus",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T08:52:44.167Z"
+}

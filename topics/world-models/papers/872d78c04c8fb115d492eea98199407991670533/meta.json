@@ -1,0 +1,31 @@
+{
+  "paperId": "872d78c04c8fb115d492eea98199407991670533",
+  "title": "Revisiting Feature Prediction for Learning Visual Representations from Video",
+  "year": 2024,
+  "authors": [
+    "Adrien Bardes",
+    "Q. Garrido",
+    "Jean Ponce",
+    "Xinlei Chen",
+    "Michael G. Rabbat",
+    "Yann LeCun",
+    "Mahmoud Assran",
+    "Nicolas Ballas"
+  ],
+  "venue": "Trans. Mach. Learn. Res.",
+  "citationCount": 422,
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2404-08471",
+    "ArXiv": "2404.08471",
+    "DOI": "10.48550/arXiv.2404.08471",
+    "CorpusId": 269137489
+  },
+  "url": "https://www.semanticscholar.org/paper/872d78c04c8fb115d492eea98199407991670533",
+  "abstract": "This paper explores feature prediction as a stand-alone objective for unsupervised learning from video and introduces V-JEPA, a collection of vision models trained solely using a feature prediction objective, without the use of pretrained image encoders, text, negative examples, reconstruction, or other sources of supervision. The models are trained on 2 million videos collected from public datasets and are evaluated on downstream image and video tasks. Our results show that learning by predicting video features leads to versatile visual representations that perform well on both motion and appearance-based tasks, without adaption of the model's parameters; e.g., using a frozen backbone. Our largest model, a ViT-H/16 trained only on videos, obtains 81.9% on Kinetics-400, 72.2% on Something-Something-v2, and 77.9% on ImageNet1K.",
+  "tldr": null,
+  "openAccessPdfUrl": "",
+  "role": "topic",
+  "whyIncluded": "V-JEPA video world model",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T05:22:50.926Z"
+}

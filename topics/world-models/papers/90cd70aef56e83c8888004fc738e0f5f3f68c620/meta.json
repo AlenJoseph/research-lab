@@ -1,0 +1,24 @@
+{
+  "paperId": "90cd70aef56e83c8888004fc738e0f5f3f68c620",
+  "title": "Transformers are Meta-Reinforcement Learners",
+  "year": 2022,
+  "authors": [
+    "L. Melo"
+  ],
+  "venue": "International Conference on Machine Learning",
+  "citationCount": 70,
+  "externalIds": {
+    "DBLP": "conf/icml/Melo22",
+    "ArXiv": "2206.06614",
+    "DOI": "10.48550/arXiv.2206.06614",
+    "CorpusId": 249642580
+  },
+  "url": "https://www.semanticscholar.org/paper/90cd70aef56e83c8888004fc738e0f5f3f68c620",
+  "abstract": "The transformer architecture and variants presented remarkable success across many machine learning tasks in recent years. This success is intrinsically related to the capability of handling long sequences and the presence of context-dependent weights from the attention mechanism. We argue that these capabilities suit the central role of a Meta-Reinforcement Learning algorithm. Indeed, a meta-RL agent needs to infer the task from a sequence of trajectories. Furthermore, it requires a fast adaptation strategy to adapt its policy for a new task -- which can be achieved using the self-attention mechanism. In this work, we present TrMRL (Transformers for Meta-Reinforcement Learning), a meta-RL agent that mimics the memory reinstatement mechanism using the transformer architecture. It associates the recent past of working memories to build an episodic memory recursively through the transformer layers. We show that the self-attention computes a consensus representation that minimizes the Bayes Risk at each layer and provides meaningful features to compute the best actions. We conducted experiments in high-dimensional continuous control environments for locomotion and dexterous manipulation. Results show that TrMRL presents comparable or superior asymptotic performance, sample efficiency, and out-of-distribution generalization compared to the baselines in these environments.",
+  "tldr": "This work presents TrMRL (Transformers for Meta-Reinforcement Learning), a meta-RL agent that mimics the memory reinstatement mechanism using the transformer architecture and shows that the self-attention computes a consensus representation that minimizes the Bayes Risk at each layer and provides meaningful features to compute the best actions.",
+  "openAccessPdfUrl": "https://arxiv.org/pdf/2206.06614",
+  "role": "topic",
+  "whyIncluded": "Core corpus",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T08:56:08.654Z"
+}

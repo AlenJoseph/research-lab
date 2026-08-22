@@ -1,0 +1,32 @@
+{
+  "paperId": "cbc1363d0c55abb60aa9c0e5a7ca0798ce86a752",
+  "title": "Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
+  "year": 2025,
+  "authors": [
+    "Jonas Geiping",
+    "Sean McLeish",
+    "Neel Jain",
+    "John Kirchenbauer",
+    "Siddharth Singh",
+    "Brian R. Bartoldson",
+    "B. Kailkhura",
+    "A. Bhatele",
+    "Tom Goldstein"
+  ],
+  "venue": "Neural Information Processing Systems",
+  "citationCount": 312,
+  "externalIds": {
+    "DBLP": "journals/corr/abs-2502-05171",
+    "ArXiv": "2502.05171",
+    "DOI": "10.48550/arXiv.2502.05171",
+    "CorpusId": 276235803
+  },
+  "url": "https://www.semanticscholar.org/paper/cbc1363d0c55abb60aa9c0e5a7ca0798ce86a752",
+  "abstract": "We study a novel language model architecture that is capable of scaling test-time computation by implicitly reasoning in latent space. Our model works by iterating a recurrent block, thereby unrolling to arbitrary depth at test-time. This stands in contrast to mainstream reasoning models that scale up compute by producing more tokens. Unlike approaches based on chain-of-thought, our approach does not require any specialized training data, can work with small context windows, and can capture types of reasoning that are not easily represented in words. We scale a proof-of-concept model to 3.5 billion parameters and 800 billion tokens. We show that the resulting model can improve its performance on reasoning benchmarks, sometimes dramatically, up to a computation load equivalent to 50 billion parameters.",
+  "tldr": "A novel language model architecture that is capable of scaling test-time computation by implicitly reasoning in latent space by iterating a recurrent block, thereby unrolling to arbitrary depth at test-time is studied.",
+  "openAccessPdfUrl": "",
+  "role": "topic",
+  "whyIncluded": "Text latent reasoning / composition from literature pass",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T09:33:11.316Z"
+}

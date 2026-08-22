@@ -1,0 +1,22 @@
+{
+  "name": "research-lab",
+  "version": "0.2.0",
+  "description": "Cursor-native research lab: Semantic Scholar discovery, JSON graph, Zotero sync, LaTeX output",
+  "type": "module",
+  "scripts": {
+    "run": "tsx .cursor/skills/research-lab/scripts/run.ts",
+    "seed": "tsx src/seed-world-models.ts",
+    "seed:meta": "tsx src/seed-meta-corpus.ts",
+    "seed:efficiency": "tsx src/seed-world-models-efficiency.ts",
+    "build": "tsc --noEmit",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

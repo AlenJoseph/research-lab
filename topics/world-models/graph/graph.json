@@ -1,0 +1,1725 @@
+{
+  "nodes": [
+    {
+      "id": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "source": "topic",
+      "label": "World Models",
+      "role": "topic"
+    },
+    {
+      "id": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "source": "topic",
+      "label": "A Path Towards Autonomous Machine Intelligence",
+      "role": "topic"
+    },
+    {
+      "id": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "source": "topic",
+      "label": "Self-Supervised Learning from Images with a Joi…",
+      "role": "topic"
+    },
+    {
+      "id": "872d78c04c8fb115d492eea98199407991670533",
+      "source": "topic",
+      "label": "Revisiting Feature Prediction for Learning Visu…",
+      "role": "topic"
+    },
+    {
+      "id": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "source": "topic",
+      "label": "Titans: Learning to Memorize at Test Time",
+      "role": "topic"
+    },
+    {
+      "id": "2d5673caa9e6af3a7b82a43f19ee920992db07ad",
+      "source": "meta",
+      "label": "Computing Machinery and Intelligence",
+      "role": "foundation"
+    },
+    {
+      "id": "ceceaabccaf61edfd1c924d419328f0c2bfe9f81",
+      "source": "meta",
+      "label": "A Proposal For The Dartmouth Summer Research Pr…",
+      "role": "foundation"
+    },
+    {
+      "id": "052b1d8ce63b07fec3de9dbb583772d860b7c769",
+      "source": "meta",
+      "label": "Learning representations by back-propagating er…",
+      "role": "foundation"
+    },
+    {
+      "id": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "source": "meta",
+      "label": "Long Short-Term Memory",
+      "role": "foundation"
+    },
+    {
+      "id": "162d958ff885f1462aeda91cd72582323fd6a1f4",
+      "source": "meta",
+      "label": "Gradient-based learning applied to document rec…",
+      "role": "foundation"
+    },
+    {
+      "id": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "source": "meta",
+      "label": "ImageNet classification with deep convolutional…",
+      "role": "foundation"
+    },
+    {
+      "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "source": "meta",
+      "label": "Attention is All you Need",
+      "role": "foundation"
+    },
+    {
+      "id": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "source": "topic",
+      "label": "Human-level control through deep reinforcement …",
+      "role": "topic"
+    },
+    {
+      "id": "846aedd869a00c09b40f1f1f35673cb22bc87490",
+      "source": "meta",
+      "label": "Mastering the game of Go with deep neural netwo…",
+      "role": "foundation"
+    },
+    {
+      "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "source": "meta",
+      "label": "Language Models are Few-Shot Learners",
+      "role": "foundation"
+    },
+    {
+      "id": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "source": "topic",
+      "label": "Dream to Control: Learning Behaviors by Latent …",
+      "role": "topic"
+    },
+    {
+      "id": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "source": "topic",
+      "label": "Mastering Diverse Domains through World Models",
+      "role": "topic"
+    },
+    {
+      "id": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "source": "topic",
+      "label": "Learning Latent Dynamics for Planning from Pixe…",
+      "role": "topic"
+    },
+    {
+      "id": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "source": "meta",
+      "label": "Mastering Atari, Go, chess and shogi by plannin…",
+      "role": "foundation"
+    },
+    {
+      "id": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "source": "meta",
+      "label": "Recurrent World Models Facilitate Policy Evolut…",
+      "role": "foundation"
+    },
+    {
+      "id": "518b827e340c26582b5093401283a4f5cff605b9",
+      "source": "topic",
+      "label": "Learning Invariant Representations for Reinforc…",
+      "role": "topic"
+    },
+    {
+      "id": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "source": "meta",
+      "label": "Neural Turing Machines",
+      "role": "foundation"
+    },
+    {
+      "id": "784ee73d5363c711118f784428d1ab89f019daa5",
+      "source": "meta",
+      "label": "Hybrid computing using a neural network with dy…",
+      "role": "foundation"
+    },
+    {
+      "id": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "source": "meta",
+      "label": "Memory Networks",
+      "role": "foundation"
+    },
+    {
+      "id": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "source": "meta",
+      "label": "End-To-End Memory Networks",
+      "role": "foundation"
+    },
+    {
+      "id": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "source": "meta",
+      "label": "Transformer-XL: Attentive Language Models beyon…",
+      "role": "foundation"
+    },
+    {
+      "id": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "source": "meta",
+      "label": "Memorizing Transformers",
+      "role": "foundation"
+    },
+    {
+      "id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "source": "meta",
+      "label": "Retrieval-Augmented Generation for Knowledge-In…",
+      "role": "foundation"
+    },
+    {
+      "id": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "source": "meta",
+      "label": "MemGPT: Towards LLMs as Operating Systems",
+      "role": "foundation"
+    },
+    {
+      "id": "46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5",
+      "source": "topic",
+      "label": "Retrieval-Augmented Generation for Large Langua…",
+      "role": "topic"
+    },
+    {
+      "id": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "source": "meta",
+      "label": "Recurrent Memory Transformer",
+      "role": "method"
+    },
+    {
+      "id": "2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb",
+      "source": "topic",
+      "label": "Deep Learning",
+      "role": "topic"
+    },
+    {
+      "id": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "source": "topic",
+      "label": "Training Compute-Optimal Large Language Models",
+      "role": "critique"
+    },
+    {
+      "id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "source": "topic",
+      "label": "Scaling Laws for Neural Language Models",
+      "role": "foundation"
+    },
+    {
+      "id": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "source": "topic",
+      "label": "Switch Transformers: Scaling to Trillion Parame…",
+      "role": "method"
+    },
+    {
+      "id": "76e9e2ec3de437ffb30d8b7b629f7fe3e61de5c2",
+      "source": "topic",
+      "label": "On the Opportunities and Risks of Foundation Mo…",
+      "role": "critique"
+    },
+    {
+      "id": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "source": "topic",
+      "label": "V-JEPA 2: Self-Supervised Video Models Enable U…",
+      "role": "topic"
+    },
+    {
+      "id": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "source": "topic",
+      "label": "LeWorldModel: Stable End-to-End Joint-Embedding…",
+      "role": "topic"
+    },
+    {
+      "id": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "source": "topic",
+      "label": "What Drives Success in Physical Planning with J…",
+      "role": "topic"
+    },
+    {
+      "id": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "source": "topic",
+      "label": "JEPA for RL: Investigating Joint-Embedding Pred…",
+      "role": "topic"
+    },
+    {
+      "id": "ae20731997793ef95dc8a1684f5897050626af87",
+      "source": "topic",
+      "label": "JEPA-Reasoner: Decoupling Latent Reasoning from…",
+      "role": "topic"
+    },
+    {
+      "id": "8cb0b1047de0bfd50f52bfb6a9f8daca4f243ec7",
+      "source": "topic",
+      "label": "Compositional Generalization from First Princip…",
+      "role": "topic"
+    },
+    {
+      "id": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "source": "topic",
+      "label": "Joint Embedding Predictive Architectures Focus …",
+      "role": "topic"
+    },
+    {
+      "id": "90cd70aef56e83c8888004fc738e0f5f3f68c620",
+      "source": "topic",
+      "label": "Transformers are Meta-Reinforcement Learners",
+      "role": "topic"
+    },
+    {
+      "id": "a62acff2ae06c50eb52fc2c610368ce95c3f2c62",
+      "source": "topic",
+      "label": "Does Data Scaling Lead to Visual Compositional …",
+      "role": "topic"
+    },
+    {
+      "id": "96a7642e4d33544e941de60a71aabc76c4c352ff",
+      "source": "topic",
+      "label": "Robust Subtask Learning for Compositional Gener…",
+      "role": "topic"
+    },
+    {
+      "id": "1766648967f6206a944a4bd18bbbd92a74c164bd",
+      "source": "topic",
+      "label": "Automatically Composing Representation Transfor…",
+      "role": "topic"
+    },
+    {
+      "id": "351df52b955b7663de307bf7d9360c39dcc223aa",
+      "source": "topic",
+      "label": "Learning Dynamic Attribute-factored World Model…",
+      "role": "topic"
+    },
+    {
+      "id": "7adf1ba5bdf086c43269a7e54c9e0d0293a6599a",
+      "source": "topic",
+      "label": "Why and How Auxiliary Tasks Improve JEPA Repres…",
+      "role": "topic"
+    }
+  ],
+  "edges": [
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "872d78c04c8fb115d492eea98199407991670533",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "872d78c04c8fb115d492eea98199407991670533",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "872d78c04c8fb115d492eea98199407991670533",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "to": "872d78c04c8fb115d492eea98199407991670533",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "872d78c04c8fb115d492eea98199407991670533",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "extends",
+      "origin": "curated",
+      "note": "V-JEPA extends I-JEPA to video"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "builds_on",
+      "origin": "curated",
+      "note": "I-JEPA instantiates LeCun JEPA vision"
+    },
+    {
+      "from": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "related",
+      "origin": "curated",
+      "note": "Memory module for long-horizon agents"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "846aedd869a00c09b40f1f1f35673cb22bc87490",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "846aedd869a00c09b40f1f1f35673cb22bc87490",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "846aedd869a00c09b40f1f1f35673cb22bc87490",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "846aedd869a00c09b40f1f1f35673cb22bc87490",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "518b827e340c26582b5093401283a4f5cff605b9",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "518b827e340c26582b5093401283a4f5cff605b9",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "518b827e340c26582b5093401283a4f5cff605b9",
+      "to": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "to": "518b827e340c26582b5093401283a4f5cff605b9",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "to": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "to": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "0e802c0739771acf70e60d59c2df51cd7e8c50c0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "to": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "to": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5",
+      "to": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "908dad62c0e43d80e3e3cb3c0402f7c71c70499c",
+      "to": "46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "to": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+      "to": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "to": "784ee73d5363c711118f784428d1ab89f019daa5",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "784ee73d5363c711118f784428d1ab89f019daa5",
+      "to": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "to": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "to": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "to": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "to": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "a8cf0f7a20f886acfb332071c2daaf58ba86a5ca",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "872d78c04c8fb115d492eea98199407991670533",
+      "to": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "to": "872d78c04c8fb115d492eea98199407991670533",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "to": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "to": "5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "to": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "to": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "to": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+      "to": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "to": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "to": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "to": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "to": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "to": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "to": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "to": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "to": "fdacf2a732f55befdc410ea927091cad3b791f13",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "872d78c04c8fb115d492eea98199407991670533",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "872d78c04c8fb115d492eea98199407991670533",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "to": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+      "to": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "to": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "to": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "to": "530dab86cb8034bc12a32d21508aaa3f2cc00aa1",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "to": "872d78c04c8fb115d492eea98199407991670533",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "872d78c04c8fb115d492eea98199407991670533",
+      "to": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "to": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+      "to": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "to": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "41cca0b0a27ba363ca56e7033569aeb1922b0ac9",
+      "to": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "to": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "to": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "to": "35fc38884dacfaf54e87d739fdb4104bc49b63e5",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "to": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ff332c21562c87cab5891d495b7d0956f2d9228b",
+      "to": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "to": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "340f48901f72278f6bf78a04ee5b01df208cc508",
+      "to": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "to": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ae20731997793ef95dc8a1684f5897050626af87",
+      "to": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "to": "ae20731997793ef95dc8a1684f5897050626af87",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ae20731997793ef95dc8a1684f5897050626af87",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "ae20731997793ef95dc8a1684f5897050626af87",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "8cb0b1047de0bfd50f52bfb6a9f8daca4f243ec7",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "8cb0b1047de0bfd50f52bfb6a9f8daca4f243ec7",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "to": "518b827e340c26582b5093401283a4f5cff605b9",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "518b827e340c26582b5093401283a4f5cff605b9",
+      "to": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "to": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "775f42ed458b8c5b0f2094ea4ff5b64c557b1a34",
+      "to": "ed009b7423dcfec47708fb5817ec4955e4265757",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "90cd70aef56e83c8888004fc738e0f5f3f68c620",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "90cd70aef56e83c8888004fc738e0f5f3f68c620",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "90cd70aef56e83c8888004fc738e0f5f3f68c620",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "90cd70aef56e83c8888004fc738e0f5f3f68c620",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a62acff2ae06c50eb52fc2c610368ce95c3f2c62",
+      "to": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "8342b592fe238f3d230e4959b06fd10153c45db1",
+      "to": "a62acff2ae06c50eb52fc2c610368ce95c3f2c62",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "a62acff2ae06c50eb52fc2c610368ce95c3f2c62",
+      "to": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "to": "a62acff2ae06c50eb52fc2c610368ce95c3f2c62",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "1766648967f6206a944a4bd18bbbd92a74c164bd",
+      "to": "784ee73d5363c711118f784428d1ab89f019daa5",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "784ee73d5363c711118f784428d1ab89f019daa5",
+      "to": "1766648967f6206a944a4bd18bbbd92a74c164bd",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "1766648967f6206a944a4bd18bbbd92a74c164bd",
+      "to": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+      "to": "1766648967f6206a944a4bd18bbbd92a74c164bd",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "1766648967f6206a944a4bd18bbbd92a74c164bd",
+      "to": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+      "to": "1766648967f6206a944a4bd18bbbd92a74c164bd",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "351df52b955b7663de307bf7d9360c39dcc223aa",
+      "to": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "270b95262f2100c279c4c65ef2521473841ca8ad",
+      "to": "351df52b955b7663de307bf7d9360c39dcc223aa",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "351df52b955b7663de307bf7d9360c39dcc223aa",
+      "to": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "to": "351df52b955b7663de307bf7d9360c39dcc223aa",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "351df52b955b7663de307bf7d9360c39dcc223aa",
+      "to": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "to": "351df52b955b7663de307bf7d9360c39dcc223aa",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "7adf1ba5bdf086c43269a7e54c9e0d0293a6599a",
+      "to": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "067b7dfc2515e7422e3c127685b0f130248e9b43",
+      "to": "7adf1ba5bdf086c43269a7e54c9e0d0293a6599a",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "7adf1ba5bdf086c43269a7e54c9e0d0293a6599a",
+      "to": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "ee57e4d7a125f4ca8916284a857c3760d7d378d3",
+      "to": "7adf1ba5bdf086c43269a7e54c9e0d0293a6599a",
+      "type": "cited_by",
+      "origin": "s2"
+    },
+    {
+      "from": "7adf1ba5bdf086c43269a7e54c9e0d0293a6599a",
+      "to": "518b827e340c26582b5093401283a4f5cff605b9",
+      "type": "cites",
+      "origin": "s2"
+    },
+    {
+      "from": "518b827e340c26582b5093401283a4f5cff605b9",
+      "to": "7adf1ba5bdf086c43269a7e54c9e0d0293a6599a",
+      "type": "cited_by",
+      "origin": "s2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "paperId": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+  "title": "End-To-End Memory Networks",
+  "year": 2015,
+  "authors": [
+    "Sainbayar Sukhbaatar",
+    "Arthur Szlam",
+    "J. Weston",
+    "R. Fergus"
+  ],
+  "venue": "Neural Information Processing Systems",
+  "citationCount": 2750,
+  "externalIds": {
+    "DBLP": "conf/nips/SukhbaatarSWF15",
+    "MAG": "2951008357",
+    "CorpusId": 1399322
+  },
+  "url": "https://www.semanticscholar.org/paper/4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+  "abstract": null,
+  "tldr": "A neural network with a recurrent attention model over a possibly large external memory that is trained end-to-end, and hence requires significantly less supervision during training, making it more generally applicable in realistic settings.",
+  "openAccessPdfUrl": "",
+  "role": "foundation",
+  "whyIncluded": "End-to-end trainable memory over facts",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T06:38:35.749Z"
+}

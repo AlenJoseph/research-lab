@@ -1,0 +1,43 @@
+{
+  "paperId": "340f48901f72278f6bf78a04ee5b01df208cc508",
+  "title": "Human-level control through deep reinforcement learning",
+  "year": 2015,
+  "authors": [
+    "Volodymyr Mnih",
+    "K. Kavukcuoglu",
+    "David Silver",
+    "Andrei A. Rusu",
+    "J. Veness",
+    "Marc G. Bellemare",
+    "Alex Graves",
+    "Martin A. Riedmiller",
+    "A. Fidjeland",
+    "Georg Ostrovski",
+    "Stig Petersen",
+    "Charlie Beattie",
+    "Amir Sadik",
+    "Ioannis Antonoglou",
+    "Helen King",
+    "D. Kumaran",
+    "Daan Wierstra",
+    "S. Legg",
+    "D. Hassabis"
+  ],
+  "venue": "Nature",
+  "citationCount": 32687,
+  "externalIds": {
+    "MAG": "2145339207",
+    "DBLP": "journals/nature/MnihKSRVBGRFOPB15",
+    "DOI": "10.1038/nature14236",
+    "CorpusId": 205242740,
+    "PubMed": "25719670"
+  },
+  "url": "https://www.semanticscholar.org/paper/340f48901f72278f6bf78a04ee5b01df208cc508",
+  "abstract": null,
+  "tldr": "This work bridges the divide between high-dimensional sensory inputs and actions, resulting in the first artificial agent that is capable of learning to excel at a diverse array of challenging tasks.",
+  "openAccessPdfUrl": "",
+  "role": "topic",
+  "whyIncluded": "Core corpus",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T08:57:17.863Z"
+}

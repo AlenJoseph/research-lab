@@ -1,0 +1,27 @@
+{
+  "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4",
+  "title": "Gradient-based learning applied to document recognition",
+  "year": 1998,
+  "authors": [
+    "Yann LeCun",
+    "L. Bottou",
+    "Yoshua Bengio",
+    "P. Haffner"
+  ],
+  "venue": "Proceedings of the IEEE",
+  "citationCount": 62022,
+  "externalIds": {
+    "MAG": "2112796928",
+    "DBLP": "journals/pieee/LeCunBBH98",
+    "DOI": "10.1109/5.726791",
+    "CorpusId": 14542261
+  },
+  "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4",
+  "abstract": null,
+  "tldr": "This paper reviews various methods applied to handwritten character recognition and compares them on a standard handwritten digit recognition task, and Convolutional neural networks are shown to outperform all other techniques.",
+  "openAccessPdfUrl": "",
+  "role": "foundation",
+  "whyIncluded": "LeNet — CNNs for visual recognition",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T06:37:33.401Z"
+}

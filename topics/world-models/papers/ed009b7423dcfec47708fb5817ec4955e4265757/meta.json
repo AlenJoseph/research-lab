@@ -1,0 +1,29 @@
+{
+  "paperId": "ed009b7423dcfec47708fb5817ec4955e4265757",
+  "title": "Joint Embedding Predictive Architectures Focus on Slow Features",
+  "year": 2022,
+  "authors": [
+    "Vlad Sobal",
+    "V JyothirS",
+    "Siddhartha Jalagam",
+    "Nicolas Carion",
+    "Kyunghyun Cho",
+    "Yann LeCun"
+  ],
+  "venue": "arXiv.org",
+  "citationCount": 20,
+  "externalIds": {
+    "ArXiv": "2211.10831",
+    "DBLP": "journals/corr/abs-2211-10831",
+    "DOI": "10.48550/arXiv.2211.10831",
+    "CorpusId": 253735342
+  },
+  "url": "https://www.semanticscholar.org/paper/ed009b7423dcfec47708fb5817ec4955e4265757",
+  "abstract": "Many common methods for learning a world model for pixel-based environments use generative architectures trained with pixel-level reconstruction objectives. Recently proposed Joint Embedding Predictive Architectures (JEPA) offer a reconstruction-free alternative. In this work, we analyze performance of JEPA trained with VICReg and SimCLR objectives in the fully offline setting without access to rewards, and compare the results to the performance of the generative architecture. We test the methods in a simple environment with a moving dot with various background distractors, and probe learned representations for the dot's location. We find that JEPA methods perform on par or better than reconstruction when distractor noise changes every time step, but fail when the noise is fixed. Furthermore, we provide a theoretical explanation for the poor performance of JEPA-based methods with fixed noise, highlighting an important limitation.",
+  "tldr": "This work analyzes performance of JEPA trained with VICReg and SimCLR objectives in the fully offline setting without access to rewards, and compares the results to the performance of the generative architecture.",
+  "openAccessPdfUrl": "https://arxiv.org/pdf/2211.10831",
+  "role": "topic",
+  "whyIncluded": "Core corpus",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T08:56:04.044Z"
+}

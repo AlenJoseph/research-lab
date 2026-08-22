@@ -1,0 +1,26 @@
+{
+  "paperId": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+  "title": "Long Short-Term Memory",
+  "year": 1997,
+  "authors": [
+    "Sepp Hochreiter",
+    "J. Schmidhuber"
+  ],
+  "venue": "Neural Computation",
+  "citationCount": 108341,
+  "externalIds": {
+    "DBLP": "journals/neco/HochreiterS97",
+    "MAG": "2064675550",
+    "DOI": "10.1162/neco.1997.9.8.1735",
+    "CorpusId": 1915014,
+    "PubMed": "9377276"
+  },
+  "url": "https://www.semanticscholar.org/paper/2e9d221c206e9503ceb452302d68d10e293f2a10",
+  "abstract": null,
+  "tldr": "A novel, efficient, gradient based method called long short-term memory (LSTM) is introduced, which can learn to bridge minimal time lags in excess of 1000 discrete-time steps by enforcing constant error flow through constant error carousels within special units.",
+  "openAccessPdfUrl": "",
+  "role": "foundation",
+  "whyIncluded": "LSTM — recurrent memory for sequences",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T06:37:30.830Z"
+}

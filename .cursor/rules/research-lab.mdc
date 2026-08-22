@@ -1,0 +1,16 @@
+---
+description: Research Lab — Cursor-native pipeline, cite only ingested papers, JSON graph not Neo4j
+alwaysApply: true
+---
+
+# Research Lab rules
+
+- Read `AGENTS.md` before editing research content.
+- Cite only papers in `manifest.json` using `[@s2:PAPERID]`.
+- Use the internal runner (`npm run run -- ingest ...`) to add papers; never fabricate bibliographic data.
+- Graph is `graph.json` (git-friendly JSON) — do not add Neo4j or any graph database.
+- Use `graph sync` / `graph link` / `graph viz` via the runner for relationships.
+- After ingest batches, run `zotero sync` via the runner if Zotero key is configured.
+- Prefer quality over quantity in `meta/` and topic `papers/`.
+- `PROBLEM.md` and `GAP.md` must describe a real current problem, not "nobody studied X".
+- Markdown (notes, drafts, gap analysis): write files directly. Batched S2/Zotero/graph: use the runner.

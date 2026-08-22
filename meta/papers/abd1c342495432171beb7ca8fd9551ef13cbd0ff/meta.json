@@ -1,0 +1,26 @@
+{
+  "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+  "title": "ImageNet classification with deep convolutional neural networks",
+  "year": 2012,
+  "authors": [
+    "A. Krizhevsky",
+    "I. Sutskever",
+    "Geoffrey E. Hinton"
+  ],
+  "venue": "Communications of the ACM",
+  "citationCount": 130697,
+  "externalIds": {
+    "DBLP": "conf/nips/KrizhevskySH12",
+    "MAG": "2618530766",
+    "DOI": "10.1145/3065386",
+    "CorpusId": 195908774
+  },
+  "url": "https://www.semanticscholar.org/paper/abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+  "abstract": null,
+  "tldr": "A large, deep convolutional neural network was trained to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes and employed a recently developed regularization method called \"dropout\" that proved to be very effective.",
+  "openAccessPdfUrl": "http://dl.acm.org/ft_gateway.cfm?id=3065386&type=pdf",
+  "role": "foundation",
+  "whyIncluded": "AlexNet — deep learning breakthrough on vision",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T06:37:36.273Z"
+}

@@ -1,0 +1,23 @@
+{
+  "paperId": "2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb",
+  "title": "Deep Learning",
+  "year": 2015,
+  "authors": [
+    "Yann LeCun",
+    "Yoshua Bengio",
+    "Geoffrey E. Hinton"
+  ],
+  "venue": "",
+  "citationCount": 38373,
+  "externalIds": {
+    "CorpusId": 3074096
+  },
+  "url": "https://www.semanticscholar.org/paper/2913c2bf3f92b5ae369400a42b2d27cc5bc05ecb",
+  "abstract": null,
+  "tldr": "Deep learning is making major advances in solving problems that have resisted the best attempts of the artificial intelligence community for many years, and will have many more successes in the near future because it requires very little engineering by hand and can easily take advantage of increases in the amount of available computation and data.",
+  "openAccessPdfUrl": "",
+  "role": "foundation",
+  "whyIncluded": "LeCun Bengio Hinton Nature 2015 deep learning review",
+  "quotes": [],
+  "ingestedAt": "2026-08-10T07:06:26.345Z"
+}
