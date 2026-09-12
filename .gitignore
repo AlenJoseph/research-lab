@@ -11,15 +11,5 @@ dist/
 *.toc
 *.synctex.gz
 
-# Local topic (keep off remote)
-topics/apefms/
-
-# Regeneratable (agent recreates via runner)
-topics/*/survey/catalog.json
-topics/*/survey/catalog.csv
-topics/*/survey/COVERAGE-MATRIX.md
-topics/*/survey/THEMES.md
-topics/*/survey/ALREADY-SOLVED.md
-topics/*/matrix/lit-review.csv
-topics/*/matrix/lit-review.md
-topics/*/refs/references.bib
+# All topic work stays local (never push)
+topics/
